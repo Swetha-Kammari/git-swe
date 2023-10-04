@@ -1,0 +1,3 @@
+<script>
+Some files
+</script>
